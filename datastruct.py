@@ -9,3 +9,5 @@ class GPAData(object):
         self.gpa = None
         self.strain = None
         self.error_gpa = None
+        self.phase = None
+        self.phase_raw = None
